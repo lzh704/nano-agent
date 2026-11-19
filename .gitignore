@@ -1,0 +1,20 @@
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 虚拟环境
+.venv/
+venv/
+
+# API Key 和环境配置
+.env
+.env.*
+!.env.example
+
+# 编辑器文件
+.vscode/
+.idea/
+
+# 日志
+*.log
